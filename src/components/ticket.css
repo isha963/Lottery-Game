@@ -1,0 +1,10 @@
+.ticket{
+  border: 1px solid rgb(230, 19, 19);
+  border-radius: 5px;
+  padding:5px 10px;
+  margin: auto;
+   width: 200px;
+}
+.para{
+  margin: 0px;
+}
